@@ -35,4 +35,4 @@ I have collected data for two surveys. Each has data set consists of a thousand 
 1. Considering my sampling technique for the survey, I would like to understand the limitations of any conclusions I can draw from my results. 
 
 
-[1]: Dan M. Kahan et al., “Culture and Identity-Protective Cognition: Explaining the White-Male Effect in Risk Perception,” Journal of Empirical Legal Studies 4, no. 3 (November 2007): 465–505, https://doi.org/10.1111/j.1740-1461.2007.00097.x.
+[^1]: Dan M. Kahan et al., “Culture and Identity-Protective Cognition: Explaining the White-Male Effect in Risk Perception,” Journal of Empirical Legal Studies 4, no. 3 (November 2007): 465–505, https://doi.org/10.1111/j.1740-1461.2007.00097.x.
